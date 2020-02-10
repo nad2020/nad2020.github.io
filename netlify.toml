@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://chicago.nad.org"
+  from = "http://chicago.nad.org"
   to = "https://2020chicago.nad.org"
   status = 301
   force = true
